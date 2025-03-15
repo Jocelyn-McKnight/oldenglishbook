@@ -4,8 +4,9 @@ longform:
   title: oldenglishbook
   workflow: Default Workflow
   sceneFolder: /
-  scenes:
-    - Introduction
+  scenes: []
   sceneTemplate: templates/Chapter.md
   ignoredFiles: []
+title: 
 ---
+Here are the poetry texts

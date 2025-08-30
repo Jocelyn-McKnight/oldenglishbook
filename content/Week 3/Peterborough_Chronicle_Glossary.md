@@ -6,18 +6,18 @@
 ---
 
 ## A
-abiddan 'to ask, entreat, pray' (inf. str.vb.5)
-Ac 'but' (conj.)
-afylde 'defeated' (3 sg.pret. wk. vb. afyllan 'to defeat, fell') 
-afyllan 'to defeat, fell' (inf. wk. vb.¹)
-and 'and' (conj.)
-Angla (Angle) 'the Angles' (nom. pl. masc. n.) 
-Angle 'the Angels' (dat. pl. n.) 
-Anglum 'the Angles' (dat. pl. masc. n.)
-**Anno** ‘year’ (Lat. loan, used in annalistic style)
-Ald Seaxum 'the Old Saxons' (dat. pl. masc. n. phrase Ald Seaxe)
-Armoricano 'western Gaul' (dat./acc. sg. fem. n.)
-awoc 'awoke' (3 sg. pret. str.vb. awacan 'to awaken')
+abiddan 'to ask, entreat, pray' (inf. str.vb.5)  
+Ac 'but' (conj.)  
+afylde 'defeated' (3 sg.pret. wk. vb. afyllan 'to defeat, fell')  
+afyllan 'to defeat, fell' (inf. wk. vb.)  
+and 'and' (conj.)  
+Angla (Angle) 'the Angles' (nom. pl. masc. n.)  
+Angle 'the Angels' (dat. pl. n.)  
+Anglum 'the Angles' (dat. pl. masc. n.)  
+Anno ‘year’ (Lat. loan, used in annalistic style)  
+Ald Seaxum 'the Old Saxons' (dat. pl. masc. n. phrase Ald Seaxe)  
+Armoricano 'western Gaul' (dat./acc. sg. fem. n.)  
+awoc 'awoke' (3 sg. pret. str.vb. awacan 'to awaken')  
 
 
 ---

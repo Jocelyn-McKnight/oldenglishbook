@@ -93,30 +93,30 @@ This course uses both **formative** (progress-focused) and **summative** (achiev
 ---
 
 ### Notes:
-#### Note 1 {#note-1} 
+#### Note 1
 Each category under this heading is of equal weight (i.e. the pronunciation exercise is worth the same as the poster and presentation which is worth the same as attendance and participation). I reserve the right to add or subtract participation exercises and categories during the year (e.g. adding a quiz or homework category if class effort flags). Grading is Appropriate/Inappropriate/Fail. “Appropriate” means a good faith effort (i.e. a genuine attempt to perform the exercise, even if unsuccessful, rather than an attempt to game the system or otherwise operate in bad faith or take advantage of the exercise). Appropriate work will be given a score of 100%, subject to any provisions below (e.g. attendance and participation).
 
-#### Note 2 {#note-2} 
+#### Note 2
 Attendence will be taken in breakout sections. Students may pass on translations up to five times in the course of the semester. After that, they will not be counted as present whenever they “pass” on a translation (subject to instructor discretion and barring medical, family, and other exigencies). If you are having trouble keeping up with the translations at any time in the year, please let us know as soon as possible: we have tips and techniques you can try to make things more efficient.
 
-#### Note 3 {#note-3} 
+#### Note 3
 All exercises under this category are of equal weight. Grading is Appropriate/Inappropriate/Fail. “Appropriate” means a good faith effort (i.e. a genuine attempt to perform the exercise, even if unsuccessful, rather than an attempt to game the system or otherwise operate in bad faith or take advantage of the exercise). Appropriate work will be given a score of 100% as well as an advisory letter grade indicating what we think it would have earned if this had been a summative assignment. The letter grade has no impact on your final grade in the course and is meant only for your information.
 
 If your work is exceptionally high quality it may be eligible also for Badges. Students may submit one piece of “Inappropriate” work for regrading, provided they accompany this with a letter explaining what changes have been made to the resubmission. Students who resubmit work for grading will receive a 2.5% penalty on their final grade.
 
-#### Note 4 {#note-4} 
+#### Note 4
 Up to three blogs published in any one week may be counted for credit (though you are welcome to publish more than three). If you publish more than one blog, then the first one counts for 1 point and the second and third 1/2 point each (i.e. a maximum of 2 points in any one week). For the purposes of calculating grades, the week ends at the end of our Friday class (i.e. anything published after 13:00 on Friday belongs to the following week’s blog(s). You first blog in a week must be published by midnight Monday to count as “on-time.” After midnight on Monday, each blog published in a week will count for 1/2 point. Please look at the about blogs page to see my (liberal and easy-going) policies on what is required and acceptable in blogs
 
-#### Note 5 {#note-5} 
+#### Note 5
 Creative/alternative work will be accepted for the final written assignment only with prior permission of the instructor. Proposals for creative/alternative work will be considered the week before Reading Week. If you are considering a creative or alternative project for your final written assignment, please ensure you prepare a proposal and book an appointment to discuss it with Professor O’Donnell.
 
-#### Note 6 {#note-6} 
+#### Note 6
 The final exam will be available throughout the exam period.
 
-#### Note 7 {#note-7} 
+#### Note 7
 9% of the grade is reserved for “Badges.” Badges are earned for exceptional work and may be applied to any assignment, summative or formative. There are two types of badges: “Distinction” (equivalent to 1.5% on your final grade) and “Great Distinction” (equivalent to 3%). The value of a badge does not depend on the value of the underlying work (i.e. the badges are worth the same whether they are on a poster or an essay). Students may receive up to the maximum of 10% in badges. Please note that these are not “bonus marks”: the badges represent a reserved portion of the final grade that is awarded for excellence.
 
-#### Note 8 {#note-8} 
+#### Note 8
 Students may request permission to resubmit one piece of “inappropriate” formative work in the course of the semester, at a cost of -2.5% on their final grade in the class. Work receiving a “Fail” may not be made up.
 
 ---

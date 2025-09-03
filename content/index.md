@@ -5,22 +5,22 @@ This resource is designed to complement our main textbook (Mitchell and Robinson
 ---
 
 ## Course Information
-- [Syllabus]
-- [Schedule]
+- [[Syllabus]]
+- [[Schedule]]
 
 ---
 
 ## Readings (that are not in the Textbook)
-- [Practice Sentences C]
-- [The Peterborough Chronicles]
+- [[Practice Sentences C]]
+- [[The Peterborough Chronicles]]
 
 ---
 
 ## Resources
-- [Old English Cheat Sheet]
-- [Translating Techniques]
-- [Studying Techniques]
-- [Custom Keyboards]
+- [[Old English Cheat Sheet]]
+- [[Translating Techniques]]
+- [[Studying Techniques]]
+- [[Custom Keyboards]]
 
 ## External Resources
 - [Writing Guide](https://owl.purdue.edu/owl/)

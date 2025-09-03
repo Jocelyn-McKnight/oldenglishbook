@@ -165,8 +165,3 @@ I have prepared rubrics for most types of qualitative assignments (assignments t
 
 ## Plagiarism
 This course uses plagiarism detection software. Any plagiarism will be treated very seriously: you can expect to receive a grade of 0 on the assignment as well as other penalties depending on the seriousness of the offence. 
-
----
-
-## Class Schedule
-*A detailed schedule will be posted and updated throughout the semester.*  

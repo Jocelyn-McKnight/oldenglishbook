@@ -46,8 +46,6 @@ Even when Anglo-Saxons used different characters or spellings, the actual sounds
 
 Old English also distinguished between **long and short consonants**. Double consonants (long) were held longer, similar to Modern Italian, though absent in Modern English.
 
-![Old English Consonants](./images/consonants.png)
-
 <p align="center">
   <img src="./images/consonants.png" alt="Old English Consonants" width="500"/>
   <br>
@@ -99,6 +97,12 @@ Old English had front rounded vowels (written **y**) that do not exist in Modern
 - Comparable to **ü** in German (*über*) or French *tu*.  
 - Formed by saying **i** while rounding the lips like **u**.  
 - Eventually merged with **i** by the end of the Anglo-Saxon period.
+
+<p align="center">
+  <img src="./images/vowels.png" alt="Old English Vowels" width="500"/>
+  <br>
+  <em>This charts comes from the Old English Online Pronunciation Guide</em>
+</p>
 
 ---
 

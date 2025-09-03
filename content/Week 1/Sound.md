@@ -1,6 +1,6 @@
 # Introduction
 
-The sounds of Old English should not prove difficult, with a few exceptions, for speakers of Modern English. It can be hard at first to get used to some of the spelling conventions, such as the fact that all letters—including final **e**—are pronounced; but on the whole Old English does not have many sounds that are not the same as in Modern English, and, in most cases, indicated by the same letters (you can read a brief tutorial on Old English script [here](spelling)).
+The sounds of Old English should not prove difficult, with a few exceptions, for speakers of Modern English. It can be hard at first to get used to some of the spelling conventions, such as the fact that all letters—including final **e**—are pronounced; but on the whole Old English does not have many sounds that are not the same as in Modern English, and, in most cases, indicated by the same letters (you can read a brief tutorial on Old English script: [[Spelling]]).
 
 This is particularly true of the short vowels and the consonants, most of which are thought to have been largely the same as their Modern English equivalents. The lax **e /ɛ/** in Modern English *edge*, for example, is probably not all that different from the short **e [ɛ]** in the word’s Old English ancestor, *ecg* [1]. Likewise the **d [d]** in Old English *dysiġ* (‘foolish’) was pronounced much the same as the same letter in *dizzy*, the Modern English descendant of *dysiġ*.
 
@@ -47,7 +47,7 @@ Even when Anglo-Saxons used different characters or spellings, the actual sounds
 Old English also distinguished between **long and short consonants**. Double consonants (long) were held longer, similar to Modern Italian, though absent in Modern English.
 
 <p align="center">
-  <img src="./images/consonants.png" alt="Old English Consonants" width="500"/>
+  <img src="../images/consonants.png" alt="Old English Consonants" width="500"/>
   <br>
   <em>This charts comes from the Old English Online Pronunciation Guide</em>
 </p>
@@ -99,7 +99,7 @@ Old English had front rounded vowels (written **y**) that do not exist in Modern
 - Eventually merged with **i** by the end of the Anglo-Saxon period.
 
 <p align="center">
-  <img src="./images/vowels.png" alt="Old English Vowels" width="500"/>
+  <img src="../images/vowels.png" alt="Old English Vowels" width="500"/>
   <br>
   <em>This charts comes from the Old English Online Pronunciation Guide</em>
 </p>

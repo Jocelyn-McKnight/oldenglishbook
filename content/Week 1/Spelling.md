@@ -62,6 +62,8 @@ Although Old and Modern English have a large number of letters in common, the fo
 
 *(Winchester Cathedral I folio 81r. Manuscript reproduced with the permission of the Dean and Chapter of Winchester/Winchester Cathedral Library. Please do not reproduce without permission). The background to this image has been simplified slightly for pedagogical purposes. The unmodified version is available here.*
 
+Find more information on Paleography (the study of historic handwriting) here: [[Paleography]]
+
 ---
 
 ## Occasional Use of Runes
@@ -95,7 +97,7 @@ On most modern computer systems, these characters can be accessed via:
 
 - a **character map utility**,  
 - within a word processor via the **Insert Special Characters** menu option,  
-- modifying your **keyboard** to allow direct typing (see, for Linux, my article on creating custom keyboards),  
-- or using **commercial software** (Mac and Windows).
+- modifying your **keyboard** to allow direct typing
+- or using **commercial software** 
 
-Here’s a recent (2020) article that shows you multiple ways of typing “special characters” in Windows.
+Find a light tutorial here: [[Custom Keyboards]].

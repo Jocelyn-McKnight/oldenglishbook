@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "https://jocelyn-mcknight.github.io/oldenglishbook/Syllabus",
+    baseUrl: "https://jocelyn-mcknight.github.io/oldenglishbook",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {

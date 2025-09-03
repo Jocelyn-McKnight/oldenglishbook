@@ -11,6 +11,7 @@ The most important of these additions were:
 - **þ (thorn)** and **ð (eth)**, both of which were used to spell the sounds we now write using the Norman-influenced spelling *th*.
 - **ƿ (wynn)**, a runic character used for the sound we spell using *w*.
 - **æ (æsc, pronounced as Modern English ash)**, a vowel used to indicate the sound we now spell with *a* in words like *bat* and *mat* (the Anglo-Saxons also use the letter *a*, but only for sounds like that spelled using *a* in *father* and *au* in many non-Canadian pronunciations of *aunt*).
+- Although some sources migth also list **ȝ (yogh)** as an Old English letter, this is not the case. In Old English, the character is actually the insular g, a scribal form of the letter g. It only develops into the distinct letter ȝ (yogh) in Middle English, where it represents separate phonemes.
 
 Otherwise the Old English alphabet contained more or less the same letters as the Modern English alphabet, though as we’ll see, several looked somewhat different. The main exceptions are our letters *k, v, z, w*, the Norman-derived spellings *wh, th, sh*, and also *dg* (as in *edge*), and some differences in the sounds associated with the letters *c, g, f, s,* and *y* (For a more detailed discussion of these sounds with example sound files, see my tutorial on the Pronunciation of Old English).
 

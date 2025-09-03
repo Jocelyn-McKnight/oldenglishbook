@@ -11,7 +11,6 @@
 - [Grade Scale](#grade-scale)
 - [Submitting Work](#submitting-work)
 - [Plagiarism](#plagiarism)
-- [Class Schedule](#class-schedule)
 
 ---
 

@@ -1,4 +1,4 @@
-# English 3450a: Old English (Fall 2023)
+# Old English (Fall 2023) Syllabus
 
 ## Contents
 - [Instructor](#instructor)

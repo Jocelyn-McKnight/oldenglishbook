@@ -1,5 +1,3 @@
-# Glossary for the Peterborough Chronicle
-
 This glossary is meant to be used with the four specific exerts assigned for this course (found here: [[The Peterborough Chronicle]]). It was partially adapted from Jonathan Evans’ Introduction to Old English (2021) and partially developed specifically for this course using a combination of dictionaries and AI tools. If you notice any missing terms or errors in the entries, please contact me at jocelyn.mcknight@uleth.ca.
 
 ## Navigation

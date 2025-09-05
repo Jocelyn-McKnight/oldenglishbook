@@ -1,4 +1,4 @@
-# Old English (Fall 2023) Schedule
+# Old English (Fall 2025) Schedule
 
 This schedule is a work in progress and will be updated over the next few weeks. Most Assignments are due on Sunday at 23:59.
 

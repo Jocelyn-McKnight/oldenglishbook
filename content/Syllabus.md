@@ -1,4 +1,4 @@
-# Old English (Fall 2023) Syllabus
+# Old English (Fall 2025) Syllabus
 
 ## Contents
 - [Instructor](#instructor)

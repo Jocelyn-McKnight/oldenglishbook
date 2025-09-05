@@ -21,6 +21,7 @@ This resource is designed to complement our main textbook (Mitchell and Robinson
 - [[Translating Techniques]]
 - [[Studying Techniques]]
 - [[Custom Keyboards]]
+- [[Old English Handwriting]]
 
 ## External Resources
 - [Writing Guide](https://owl.purdue.edu/owl/)

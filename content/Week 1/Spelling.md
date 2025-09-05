@@ -63,7 +63,7 @@ Although Old and Modern English have a large number of letters in common, the fo
 
 *(Winchester Cathedral I folio 81r. Manuscript reproduced with the permission of the Dean and Chapter of Winchester/Winchester Cathedral Library. Please do not reproduce without permission). The background to this image has been simplified slightly for pedagogical purposes. The unmodified version is available here.*
 
-Find more information on Paleography (the study of historic handwriting) here: [[Paleography]]
+Find more information on Paleography (the study of historic handwriting) here: [[Old English Handwriting]]
 
 ---
 

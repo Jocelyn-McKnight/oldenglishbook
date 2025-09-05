@@ -210,8 +210,6 @@ Conjunctions are used to join grammatical units. Unlike prepositions, which join
 
 ## Exercises
 
-*(Click here for Answers)*
-
 The following exercises test you on your ability to apply the above material. The real test of your knowledge of grammar is not whether you are able to memorise terms and definitions, but whether you can supply examples and describe real-life sentences.
 
 1. **Place each word** in the following sentence in its Word Class using the above tests. Which Word Class(es) is or are missing?  

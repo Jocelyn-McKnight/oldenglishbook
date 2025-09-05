@@ -11,14 +11,14 @@ This resource is designed to complement our main textbook (Mitchell and Robinson
 ---
 
 ## Readings (that are not in the Textbook)
-- [[Practice Sentences C]]
-- [[The Peterborough Chronicles]]
+- [[1 C Practice Sentences]]
+- [[The Peterborough Chronicle]]
 
 ---
 
 ## Resources
 - [[Old English Cheat Sheet]]
-- [[Translating Techniques]]
+- [[Translation Techniques]]
 - [[Studying Techniques]]
 - [[Custom Keyboards]]
 - [[Old English Handwriting]]

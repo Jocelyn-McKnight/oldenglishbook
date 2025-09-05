@@ -166,10 +166,4 @@ Adverbials are words/phrases that behave like adverbs:
 - Prepositional phrases  
 - Other constructions (e.g. genitives of time: *Tuesdays I like to play guitar*).  
 
----
-
-*To be continued…*
-
----
-
 [^1]: Subjects are sometimes defined semantically as being “the person or thing that does the action of the verb.” This is a weak definition, because (a) verbs are not always “action words”; and (b) it doesn’t account for passive sentences like *The train was stopped by Superman*: here the actor is Superman, but the train is the subject.

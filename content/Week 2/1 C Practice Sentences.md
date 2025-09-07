@@ -1,4 +1,4 @@
-Sentences 1–20 come directly from your textbook (Mitchell and Robinson). Because there are more than 20 students in this class, we have also created additional practice sentences. Sentences 21–30 were generated with the help of AI to highlight specific grammatical features. Each of these sentences has been carefully reviewed, approved, and vetted by Prof. O’Donnell. Consult the [[Translating Techniques]] and the [[Inflections]] page.
+Sentences 1–20 come directly from your textbook (Mitchell and Robinson). Because there are more than 20 students in this class, we have also created additional practice sentences. Sentences 21–30 were generated with the help of AI to highlight specific grammatical features. Each of these sentences has been carefully reviewed, approved, and vetted by Prof. O’Donnell. Consult the [[Translation Techniques]] and the [[Inflections]] page.
 
 1. Ic bræc þone stān.
 

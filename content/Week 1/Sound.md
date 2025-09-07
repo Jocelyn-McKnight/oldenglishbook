@@ -14,7 +14,7 @@ The following sections discuss each of the major groups of sounds in turn. In ea
 
 With a very few exceptions, the Old English consonant system is essentially identical to that of Modern English. Hence the sound spelled by the Old English letter **b** was pronounced more or less as is that spelled by our modern **b**: *Old English bār*, *Modern English boar* (i.e. wild pig).
 
-Even when Anglo-Saxons used different characters or spellings, the actual sounds were mostly the same:
+Even when Anglo-Saxons used different characters or spellings, the actual sounds were mostly the same (See the [[IPA Chart and Tutorial]] for extra help):
 
 - The sounds represented by the Anglo-Saxon letters **þ** and **ð** were pronounced as are the sounds represented by their Modern English equivalents: *th* (as in *then* [ð] and *thigh* [θ]).
 - **ƿ** represented the same sound as Modern English **w [w]**, e.g. *Old English weġ*, *Modern English way*.
@@ -42,7 +42,7 @@ Even when Anglo-Saxons used different characters or spellings, the actual sounds
   - [ɣ] (no Modern English equivalent, similar to Dutch *g* in *dragen*; e.g., *dragan* → *draw*, *būgan* → *bow*).
 - **h** could represent:
   - [h] (*hēafod* → *head*)
-  - [x] (like *ch* in Scottish *loch* or German *ich*; *cniht* → *knight*).
+  - [ x ] (like *ch* in Scottish *loch* or German *ich*; *cniht* → *knight*).
 
 Old English also distinguished between **long and short consonants**. Double consonants (long) were held longer, similar to Modern Italian, though absent in Modern English.
 
@@ -147,5 +147,3 @@ They were **falling diphthongs**, emphasizing the first element. By late Old Eng
 | ēo | eːɔ | ē+o | |
 | ie | ɪɛ | i+e | |
 | īe | iːɛ | ī+e | |
-
----

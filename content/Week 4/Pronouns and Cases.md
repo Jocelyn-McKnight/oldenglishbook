@@ -2,9 +2,9 @@
 
 Before looking at Old English pronouns, it is important to understand two key grammatical terms:
 
-- **Paradigm**: a complete set of related word forms that show how a word changes for grammar. For example, *I / me / my / mine* are all part of the paradigm of the English pronoun *I*. Old English pronouns also appear in paradigms, but with more variation than in Modern English.
+- **Paradigm**: All the grammatical forms of a verb that show a major morphological change. An example in Modern English is “to get” -> “get,” “got,” “gotten,” which are, respectively, the infinitive, present tense, past tense, and past participle. However, in Mitchell and Robinson, paradigm refers to a set of features that characterise a work (noun, adjective, etc.), which linguists would otherwise define as declention.
   
-- **Case**: the grammatical role a word plays in a sentence. In Modern English, word order usually shows case (e.g., *The dog bit the man* vs. *The man bit the dog*). But in Old English, case endings carried much of this information, which allowed word order to be more flexible.
+- **Case**: the grammatical role a word plays in a sentence. In Modern English, word order usually shows case (e.g., *The dog bit the man* vs. *The man bit the dog*). But in Old English, word endings carried this information, which allowed word order to be more flexible.
 
 ---
 
@@ -13,10 +13,10 @@ Before looking at Old English pronouns, it is important to understand two key gr
 Old English pronouns (and nouns) change their endings depending on case. Here are the main cases you will encounter:
 
 - **Nominative** → subject of the sentence.  
-  *hē* rīdeþ = “**he** rides”  
+  *Ic* eom munuc = “**I** am a monk”  
 
 - **Accusative** → direct object of the sentence (the receiver of the action).  
-  Ic geseah *hine* = “I saw **him**”  
+  þær bædon **Scottas** = “there asked **the Scots**”  
 
 - **Genitive** → possession or close association.  
   *landes* = “**of the land**”
